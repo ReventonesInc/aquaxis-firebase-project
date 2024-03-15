@@ -1,0 +1,12 @@
+{
+  "rules": {
+    "dispositivos": {
+      ".read": true,
+      ".write": true
+    },
+    "registeredDevices": {
+      ".read": true,
+      ".write": true
+    }
+  }
+}
